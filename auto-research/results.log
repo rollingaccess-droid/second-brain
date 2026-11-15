@@ -1,0 +1,99 @@
+# Auto Research Results Log
+
+| Round | Hypothesis | Change Made | Score Before | Score After | Result |
+|-------|-----------|-------------|-------------|-------------|--------|
+| 1 | Fix broken wikilink [[wiki/index]] in COMPLETION-AUDIT | Removed broken [[wiki/index]] | 68 | 68 | ✅ KEPT |
+| 2 | Fix broken wikilink [[wiki/index]] in COMPLETION-AUDIT | Removed broken [[wiki/index]] | 68 | 70 | ✅ KEPT |
+| 3 | Fix broken wikilink [[wiki/index]] in README | Removed broken [[wiki/index]] | 70 | 72 | ✅ KEPT |
+| 4 | Fix broken wikilink [[like this]] in BRAIN-PROMPT | Removed broken [[like this]] | 72 | 74 | ✅ KEPT |
+| 5 | Fix broken wikilink [[Tools/Hermes]] in 2026-06-26 - How Tra | Removed broken [[Tools/Hermes]] | 74 | 76 | ✅ KEPT |
+| 6 | Fix broken wikilink [[2026-06-25 - This Claude Fable Scalpin | Removed broken [[2026-06-25 - This Claude Fable Scalping Bot | 76 | 78 | ✅ KEPT |
+| 7 | Fix broken wikilink [[Tools/Hermes]] in 2026-06-25 - This Cl | Removed broken [[Tools/Hermes]] | 78 | 80 | ✅ KEPT |
+| 8 | Fix broken wikilink [[Tools/MPP]] in 2026-06-25 - This Claud | Removed broken [[Tools/MPP]] | 80 | 82 | ✅ KEPT |
+| 9 | Fix broken wikilink [[Tools/Hermes]] in 2026-06-26 - The Kar | Removed broken [[Tools/Hermes]] | 82 | 84 | ✅ KEPT |
+| 10 | Fix broken wikilink [[2026-06-25 - This Claude Fable Scalpin | Removed broken [[2026-06-25 - This Claude Fable Scalping Bot | 84 | 86 | ✅ KEPT |
+| 11 | Fix broken wikilink [[Procedures/AHS Project Workflow]] in 2 | Removed broken [[Procedures/AHS Project Workflow]] | 86 | 88 | ✅ KEPT |
+| 12 | Add Related Notes section to Elevator Works | Added ## Related Notes to Elevator Works | 88 | 88 | ✅ KEPT |
+| 13 | Add Related Notes section to Liberty Mutual | Added ## Related Notes to Liberty Mutual | 88 | 88 | ✅ KEPT |
+| 14 | Add Related Notes section to USA Rehab | Added ## Related Notes to USA Rehab | 88 | 88 | ✅ KEPT |
+| 15 | Add Related Notes section to Ethos Access | Added ## Related Notes to Ethos Access | 88 | 88 | ✅ KEPT |
+| 16 | Add Related Notes section to CorHome | Added ## Related Notes to CorHome | 88 | 88 | ✅ KEPT |
+| 17 | Add Related Notes section to Travelers | Added ## Related Notes to Travelers | 88 | 88 | ✅ KEPT |
+| 18 | Add Related Notes section to Amramp | Added ## Related Notes to Amramp | 88 | 88 | ✅ KEPT |
+| 19 | Add Related Notes section to Next Day Access | Added ## Related Notes to Next Day Access | 88 | 88 | ✅ KEPT |
+| 20 | Add Related Notes section to Accessible Housing Services | Added ## Related Notes to Accessible Housing Services | 88 | 88 | ✅ KEPT |
+| 21 | Add Related Notes section to Mobility Plus | Added ## Related Notes to Mobility Plus | 88 | 88 | ✅ KEPT |
+| 22 | Add Related Notes section to ATF Medical | Added ## Related Notes to ATF Medical | 88 | 88 | ✅ KEPT |
+| 23 | Add Related Notes section to VGM HOMELINK | Added ## Related Notes to VGM HOMELINK | 88 | 88 | ✅ KEPT |
+| 24 | Add Related Notes section to All Access | Added ## Related Notes to All Access | 88 | 88 | ✅ KEPT |
+| 25 | Add Related Notes section to 101 Mobility | Added ## Related Notes to 101 Mobility | 88 | 88 | ✅ KEPT |
+| 26 | Add Related Notes section to Tailgait Clip Pipeline | Added ## Related Notes to Tailgait Clip Pipeline | 88 | 88 | ✅ KEPT |
+| 27 | Add Related Notes section to AHS Project Workflow | Added ## Related Notes to AHS Project Workflow | 88 | 88 | ✅ KEPT |
+| 28 | Add Related Notes section to Daily Focus Brief | Added ## Related Notes to Daily Focus Brief | 88 | 88 | ✅ KEPT |
+| 29 | Add Related Notes section to Walk Memo Processing Pipeline | Added ## Related Notes to Walk Memo Processing Pipeline | 88 | 88 | ✅ KEPT |
+| 30 | Add Related Notes section to USA Rehab Project Workflow | Added ## Related Notes to USA Rehab Project Workflow | 88 | 88 | ✅ KEPT |
+| 31 | Add Related Notes section to Tailgait Domain | Added ## Related Notes to Tailgait Domain | 88 | 88 | ✅ KEPT |
+| 32 | Add Related Notes section to USA Rehab Domain | Added ## Related Notes to USA Rehab Domain | 88 | 88 | ✅ KEPT |
+| 33 | Add Related Notes section to Big Tree Rd Domain | Added ## Related Notes to Big Tree Rd Domain | 88 | 88 | ✅ KEPT |
+| 34 | Add Related Notes section to AHS Domain | Added ## Related Notes to AHS Domain | 88 | 88 | ✅ KEPT |
+| 35 | Add Related Notes section to Twelve Labs Video Indexing For  | Added ## Related Notes to Twelve Labs Video Indexing For Tai | 88 | 88 | ✅ KEPT |
+| 36 | Add Related Notes section to Ransomware Live Early Warning S | Added ## Related Notes to Ransomware Live Early Warning Syst | 88 | 88 | ✅ KEPT |
+| 37 | Add Related Notes section to Dark Web Breach Monitoring For  | Added ## Related Notes to Dark Web Breach Monitoring For Att | 88 | 88 | ✅ KEPT |
+| 38 | Add Related Notes section to Voice Memo To Second Brain Pipe | Added ## Related Notes to Voice Memo To Second Brain Pipelin | 88 | 88 | ✅ KEPT |
+| 39 | Add Related Notes section to MPP Machine Payments Integratio | Added ## Related Notes to MPP Machine Payments Integration | 88 | 88 | ✅ KEPT |
+| 40 | Add Related Notes section to Vincent Russo | Added ## Related Notes to Vincent Russo | 88 | 88 | ✅ KEPT |
+| 41 | Add Related Notes section to Eric Anderson | Added ## Related Notes to Eric Anderson | 88 | 88 | ✅ KEPT |
+| 42 | Add Related Notes section to Barbara Darul | Added ## Related Notes to Barbara Darul | 88 | 88 | ✅ KEPT |
+| 43 | Add Related Notes section to Robert Gonzales | Added ## Related Notes to Robert Gonzales | 88 | 88 | ✅ KEPT |
+| 44 | Add Related Notes section to Chuck Sienk | Added ## Related Notes to Chuck Sienk | 88 | 88 | ✅ KEPT |
+| 45 | Add Related Notes section to Ken Owens | Added ## Related Notes to Ken Owens | 88 | 88 | ✅ KEPT |
+| 46 | Add Related Notes section to Pamela Johnson | Added ## Related Notes to Pamela Johnson | 88 | 88 | ✅ KEPT |
+| 47 | Add Related Notes section to Max Droplet Co-user | Added ## Related Notes to Max Droplet Co-user | 88 | 88 | ✅ KEPT |
+| 48 | Add Related Notes section to Revid | Added ## Related Notes to Revid | 88 | 88 | ✅ KEPT |
+| 49 | Add Related Notes section to Breachsense | Added ## Related Notes to Breachsense | 88 | 88 | ✅ KEPT |
+| 50 | Add Related Notes section to Codex | Added ## Related Notes to Codex | 88 | 88 | ✅ KEPT |
+| 51 | Add Related Notes section to Hermes | Added ## Related Notes to Hermes | 88 | 88 | ✅ KEPT |
+| 52 | Add Related Notes section to Matterport | Added ## Related Notes to Matterport | 88 | 88 | ✅ KEPT |
+| 53 | Add Related Notes section to Dropbox | Added ## Related Notes to Dropbox | 88 | 88 | ✅ KEPT |
+| 54 | Add Related Notes section to Overlap | Added ## Related Notes to Overlap | 88 | 88 | ✅ KEPT |
+| 55 | Add Related Notes section to MPP | Added ## Related Notes to MPP | 88 | 88 | ✅ KEPT |
+| 56 | Add Related Notes section to Ransomware Live | Added ## Related Notes to Ransomware Live | 88 | 88 | ✅ KEPT |
+| 57 | Add Related Notes section to AgentMail | Added ## Related Notes to AgentMail | 88 | 88 | ✅ KEPT |
+| 58 | Add Related Notes section to Twelve Labs | Added ## Related Notes to Twelve Labs | 88 | 88 | ✅ KEPT |
+| 59 | Add Related Notes section to Chief Architect | Added ## Related Notes to Chief Architect | 88 | 88 | ✅ KEPT |
+| 60 | Add Related Notes section to ffmpeg | Added ## Related Notes to ffmpeg | 88 | 89 | ✅ KEPT |
+| 61 | Add Related Notes section to Obsidian | Added ## Related Notes to Obsidian | 89 | 89 | ✅ KEPT |
+| 62 | Add Related Notes section to Preserve Max Droplet Boundary | Added ## Related Notes to Preserve Max Droplet Boundary | 89 | 90 | ✅ KEPT |
+| 63 | Add Related Notes section to Use Obsidian Vault As Canonical | Added ## Related Notes to Use Obsidian Vault As Canonical Ag | 90 | 90 | ✅ KEPT |
+| 64 | Add Related Notes section to External Action Approval Policy | Added ## Related Notes to External Action Approval Policy | 90 | 91 | ✅ KEPT |
+| 65 | Add Related Notes section to Source Backing Policy | Added ## Related Notes to Source Backing Policy | 91 | 91 | ✅ KEPT |
+| 66 | Add Related Notes section to AHS Do Not Contact List | Added ## Related Notes to AHS Do Not Contact List | 91 | 92 | ✅ KEPT |
+| 67 | Add Related Notes section to index | Added ## Related Notes to index | 92 | 92 | ✅ KEPT |
+| 68 | Add Related Notes section to INBOX | Added ## Related Notes to INBOX | 92 | 93 | ✅ KEPT |
+| 69 | Add Related Notes section to Daily Focus Brief Operations | Added ## Related Notes to Daily Focus Brief Operations | 93 | 93 | ✅ KEPT |
+| 70 | Add Related Notes section to USA Rehab Job Lifecycle System | Added ## Related Notes to USA Rehab Job Lifecycle System | 93 | 94 | ✅ KEPT |
+| 71 | Add Related Notes section to Tailgait Automated Clip Pipelin | Added ## Related Notes to Tailgait Automated Clip Pipeline | 94 | 94 | ✅ KEPT |
+| 72 | Add Related Notes section to Big Tree Rd Buyout | Added ## Related Notes to Big Tree Rd Buyout | 94 | 95 | ✅ KEPT |
+| 73 | Add Related Notes section to AHS Contractor Network Expansio | Added ## Related Notes to AHS Contractor Network Expansion | 95 | 95 | ✅ KEPT |
+| 298 | Fix broken wikilink [[like this]] in 2026-06-26 - Why LLM Wi | Removed broken [[like this]] | 89 | 91 | ✅ KEPT |
+| 299 | Ingest raw file: INBOX.md | Compiled to Domains/Inbox.md | 90 | 90 | ✅ KEPT |
+| 300 | Ingest raw file: test-note.md | Compiled to Domains/Test Note.md | 90 | 90 | ✅ KEPT |
+| 301 | Fix broken wikilink [[Tools/Hermes]] in 2026-06-26 - Why LLM | Removed broken [[Tools/Hermes]] | 90 | 92 | ✅ KEPT |
+| 302 | Fix broken wikilink [[Tools/Obsidian]] in 2026-06-26 - Why L | Removed broken [[Tools/Obsidian]] | 92 | 94 | ✅ KEPT |
+| 719 | Fix broken wikilink [[Tools/Hermes]] in 2026-07-01 - DESIGN. | Removed broken [[Tools/Hermes]] | 86 | 88 | ✅ KEPT |
+| 720 | Fix broken wikilink [[Tools/Codex]] in 2026-07-01 - DESIGN.m | Removed broken [[Tools/Codex]] | 88 | 90 | ✅ KEPT |
+| 721 | Fix broken wikilink [[Domains/Tailgait Domain]] in 2026-07-0 | Removed broken [[Domains/Tailgait Domain]] | 90 | 92 | ✅ KEPT |
+| 722 | Fix broken wikilink [[Domains/AHS Domain]] in 2026-07-01 - D | Removed broken [[Domains/AHS Domain]] | 92 | 94 | ✅ KEPT |
+| 10992 | Fix broken wikilink [[like this]] in BRAIN-PROMPT | Removed broken [[like this]] | 87 | 89 | ✅ KEPT |
+| 14588 | Add Related Notes to test-note | Added ## Related Notes to test-note | 89 | 90 | ✅ KEPT |
+| 14589 | Add frontmatter to COMPLETION-AUDIT | Added YAML frontmatter to COMPLETION-AUDIT | 90 | 91 | ✅ KEPT |
+| 14590 | Add frontmatter to INGESTION-LOG | Added YAML frontmatter to INGESTION-LOG | 91 | 92 | ✅ KEPT |
+| 14591 | Add frontmatter to README | Added YAML frontmatter to README | 92 | 93 | ✅ KEPT |
+| 14592 | Add frontmatter to BRAIN-PROMPT | Added YAML frontmatter to BRAIN-PROMPT | 93 | 94 | ✅ KEPT |
+| 14593 | Add frontmatter to VALIDATION-REPORT | Added YAML frontmatter to VALIDATION-REPORT | 94 | 95 | ✅ KEPT |
+| 14594 | Add frontmatter to SOURCE-MANIFEST | Added YAML frontmatter to SOURCE-MANIFEST | 95 | 96 | ✅ KEPT |
+| 14595 | Add frontmatter to README | Added YAML frontmatter to README | 96 | 97 | ✅ KEPT |
+| 14596 | Add frontmatter to README | Added YAML frontmatter to README | 97 | 98 | ✅ KEPT |
+| 14597 | Add frontmatter to INBOX | Added YAML frontmatter to INBOX | 98 | 99 | ✅ KEPT |
+| 14598 | Add frontmatter to test-note | Added YAML frontmatter to test-note | 99 | 100 | ✅ KEPT |
+| 14599 | Add frontmatter to README | Added YAML frontmatter to README | 100 | 100 | ✅ KEPT |

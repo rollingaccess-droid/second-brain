@@ -1,0 +1,36 @@
+{
+  "vault_name": "second-brain",
+  "generated_at": "2026-06-25T21:39:36+00:00",
+  "last_updated": "2026-06-25",
+  "source_ids": [
+    "S1"
+  ],
+  "source_manifest": "SOURCE-MANIFEST.md",
+  "ingestion_log": "INGESTION-LOG.md",
+  "validation_report": "VALIDATION-REPORT.md",
+  "completion_audit": "COMPLETION-AUDIT.md",
+  "canonical_directories": [
+    "People",
+    "Companies",
+    "Projects",
+    "Domains",
+    "Tools",
+    "Decisions",
+    "Procedures",
+    "Opportunities",
+    "wiki"
+  ],
+  "agent_rules": [
+    "Do not assume facts not present in linked notes or sources.",
+    "Check SOURCE-MANIFEST.md for source freshness.",
+    "Ask for explicit approval before external action.",
+    "Respect AHS do-not-contact list.",
+    "Do not touch /home/max."
+  ],
+  "last_validation": {
+    "status": "pass",
+    "validated_at": "2026-06-25T21:40:39+00:00",
+    "command": "python3 scripts/validate_vault.py",
+    "report": "VALIDATION-REPORT.md"
+  }
+}

@@ -1,3 +1,10 @@
+---
+title: BRAIN-PROMPT
+type: system
+folder: .
+created: 2026-09-02
+---
+
 # Second Brain Build Prompt — Eric Anderson
 
 Based on Nick Vasilescu's viral second brain prompt, adapted for Eric's businesses.
@@ -110,7 +117,7 @@ second-brain/
 
 Use Obsidian-compatible Markdown:
 - YAML frontmatter (tags, aliases, domain, status, last_updated)
-- Wikilinks [[like this]] for cross-references
+- Wikilinks like this for cross-references
 - Source references with provenance
 - Prefer durable canonical notes over shallow stubs
 
