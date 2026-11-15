@@ -4,3 +4,6 @@ __pycache__/
 node_modules/
 .obsidian/workspace*.json
 .trash/
+facebook-marketplace-scraper/
+fb-marketplace-scraper/
+marketplace-api/
