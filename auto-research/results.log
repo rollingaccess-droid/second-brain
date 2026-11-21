@@ -98,3 +98,9 @@
 | 14598 | Add frontmatter to test-note | Added YAML frontmatter to test-note | 99 | 100 | ✅ KEPT |
 | 14599 | Add frontmatter to README | Added YAML frontmatter to README | 100 | 100 | ✅ KEPT |
 | 32191 | Ingest raw file: 2026-11-19-matt.md | Compiled to wiki/2026-11-20 - 2026 11 19 Matt.md | 99 | 99 | ✅ KEPT |
+| 32192 | Ingest raw file: 2026-11-20-caroline.md | Compiled to wiki/2026-11-21 - 2026 11 20 Caroline.md | 90 | 90 | ✅ KEPT |
+| 32193 | Ingest raw file: 2026-11-20-chief-of-staff.md | Compiled to Domains/2026 11 20 Chief Of Staff.md | 90 | 90 | ✅ KEPT |
+| 32194 | Ingest raw file: 2026-11-20-garyvee.md | Compiled to wiki/2026-11-21 - 2026 11 20 Garyvee.md | 90 | 89 | ❌ REVERTED |
+| 32195 | Ingest raw file: 2026-11-20-karpathy.md | Compiled to wiki/2026-11-21 - 2026 11 20 Karpathy.md | 89 | 89 | ✅ KEPT |
+| 32196 | Ingest raw file: 2026-11-20-matt.md | Compiled to wiki/2026-11-21 - 2026 11 20 Matt.md | 89 | 89 | ✅ KEPT |
+| 32197 | Ingest raw file: 2026-11-20-house.md | Compiled to Domains/2026 11 20 House.md | 89 | 88 | ❌ REVERTED |
