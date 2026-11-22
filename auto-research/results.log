@@ -104,3 +104,9 @@
 | 32195 | Ingest raw file: 2026-11-20-karpathy.md | Compiled to wiki/2026-11-21 - 2026 11 20 Karpathy.md | 89 | 89 | ✅ KEPT |
 | 32196 | Ingest raw file: 2026-11-20-matt.md | Compiled to wiki/2026-11-21 - 2026 11 20 Matt.md | 89 | 89 | ✅ KEPT |
 | 32197 | Ingest raw file: 2026-11-20-house.md | Compiled to Domains/2026 11 20 House.md | 89 | 88 | ❌ REVERTED |
+| 32198 | Ingest raw file: 2026-11-21-chief-of-staff.md | Compiled to wiki/2026-11-22 - 2026 11 21 Chief Of Staff.md | 77 | 76 | ❌ REVERTED |
+| 32199 | Ingest raw file: 2026-11-21-house.md | Compiled to wiki/2026-11-22 - 2026 11 21 House.md | 76 | 75 | ❌ REVERTED |
+| 32200 | Ingest raw file: 2026-11-21-karpathy.md | Compiled to wiki/2026-11-22 - 2026 11 21 Karpathy.md | 75 | 74 | ❌ REVERTED |
+| 32201 | Ingest raw file: 2026-11-21-caroline.md | Compiled to wiki/2026-11-22 - 2026 11 21 Caroline.md | 74 | 73 | ❌ REVERTED |
+| 32202 | Ingest raw file: 2026-11-21-garyvee.md | Compiled to wiki/2026-11-22 - 2026 11 21 Garyvee.md | 73 | 72 | ❌ REVERTED |
+| 32203 | Ingest raw file: 2026-11-21-matt.md | Compiled to wiki/2026-11-22 - 2026 11 21 Matt.md | 72 | 72 | ✅ KEPT |
